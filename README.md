@@ -26,5 +26,3 @@ Need help with Ripple: Golf Shot Tracker?
 Email: help.j@jkgamesstudios.com
 
 When reporting an issue, please include your iPhone model, Apple Watch model if applicable, iOS/watchOS version, and a brief description of what happened.
-
-Privacy Policy: [LINK TO PRIVACY POLICY]
